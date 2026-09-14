@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107722090817",
+    "project_id": "paysuite-ab923",
+    "storage_bucket": "paysuite-ab923.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107722090817:android:5ce0f5dfe9ffcc4ace99c0",
+        "android_client_info": {
+          "package_name": "com.theme29.paysuite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh1wnpf5ic8vXOYdv_Fixd7hpXfcOOyYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
